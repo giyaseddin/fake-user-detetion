@@ -1,0 +1,15 @@
+{
+  "LABELS_ID2NAME": {
+      "0": "Real", "1": "Fake"
+  },
+  "COLUMNS": {
+    "UserId": "UserId",
+    "Event": "Event",
+    "Category": "Category",
+    "Fake": "Fake",
+    "Pred": "is_fake_probability"
+  },
+  "CLASSIFIER": "RF",
+  "MODEL_PATH": "trained_models",
+  "TEST_RESULTS_PATH": "test_results"
+}
